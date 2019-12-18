@@ -1,0 +1,11 @@
+C:\Users\jeferson\source\repos\imagen\imagen\bin\Debug\imagen.exe.config
+C:\Users\jeferson\source\repos\imagen\imagen\bin\Debug\imagen.exe
+C:\Users\jeferson\source\repos\imagen\imagen\bin\Debug\imagen.pdb
+C:\Users\jeferson\source\repos\imagen\imagen\bin\Debug\imagen.xml
+C:\Users\jeferson\source\repos\imagen\imagen\obj\Debug\imagen.vbprojAssemblyReference.cache
+C:\Users\jeferson\source\repos\imagen\imagen\obj\Debug\imagen.Form1.resources
+C:\Users\jeferson\source\repos\imagen\imagen\obj\Debug\imagen.Resources.resources
+C:\Users\jeferson\source\repos\imagen\imagen\obj\Debug\imagen.vbproj.GenerateResource.cache
+C:\Users\jeferson\source\repos\imagen\imagen\obj\Debug\imagen.exe
+C:\Users\jeferson\source\repos\imagen\imagen\obj\Debug\imagen.xml
+C:\Users\jeferson\source\repos\imagen\imagen\obj\Debug\imagen.pdb
